@@ -5,7 +5,6 @@ categories:
   - JavaScript
 tags:
   - Vuetify
-pin: true
 ---
 
 ## 문제 해결 방법

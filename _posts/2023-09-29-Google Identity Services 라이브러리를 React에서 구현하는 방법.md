@@ -5,7 +5,6 @@ categories:
   - JavaScript
 tags:
   - GoogleIdentity
-pin: true
 ---
 
 ## 시작하기 전에 필요한 것들

@@ -5,7 +5,6 @@ categories:
   - JavaScript
 tags:
   - Firebase
-pin: true
 ---
 
 ## 문제 설명
