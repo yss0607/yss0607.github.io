@@ -1,3 +1,5 @@
 User-agent: *
 Allow: /
 Sitemap: https://yss0607.github.io/sitemap.xml
+
+#DaumWebMasterTool:cb21b6d91f837e5781cbafebaa70341a93c80a5fdac32f27afe8dadd22cf280b:ss9g2ZAaBoqDItY8xx/7mA==
